@@ -1,0 +1,43 @@
+/* Style Sheets */
+
+body {
+    background: url(backgroundImg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(41, 41, 41);
+}
+
+input {
+    width: 30%;
+    padding: 7px 20px;
+    box-sizing: border-box;
+}
+
+button {
+    margin: 4px;
+    border: solid 9px transparent;
+    border-radius: 6px;
+    padding: 1em;
+    color: #fff;
+    background-color: rgb(28, 47, 82);
+}
+
+button:active {
+    transform: translateY(1px);
+    filter: saturate(190%);
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    margin: 5px;
+    font-size: 23px;
+}
+
+#list {
+    background: rgb(255, 255, 255, 0.5);
+    height: 50%;
+}

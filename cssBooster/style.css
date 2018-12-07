@@ -1,0 +1,43 @@
+/* Style Sheets */
+body {
+    background-image: url();
+    background-size: cover;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    background-color: aqua;
+    color: orangered;
+    border: 3px;
+    text-align: center;
+}
+
+li, a {
+    display: inline-block;
+    color: blueviolet;
+}
+
+.div1 {
+    background-color: rgb(230, 166, 255);
+}
+
+.div2 {
+    background-color: rgb(255, 151, 151);
+}
+
+/* Class */
+/* .normal {
+    background-color: darkgray;
+}
+
+.more-normal {
+    background-color: violet;
+} */
+
+/* ID */
+/* #first-p {
+    background-color: rgb(57, 214, 214);
+} */
